@@ -1,0 +1,62 @@
+create my own website
+
+Building a software 
+
+Platforms - mobile and web (desktop, laptop, tab)
+
+Python - 
+Golang
+Java - 
+.net - paid
+PHP
+Pearl
+Node - Javascript framework 
+Javascript 
+Ruby 
+
+Steps 
+
+1. Choosing your programming language
+2. 
+3. 
+
+Team A  - Start a company of their own. Build software and sell it in the market.
+
+Backend 
+Yashwanth - Python 
+Abhiram - Java
+Prachi - Golang
+Manikanta - Node
+
+Front end 
+BootStrap
+React
+Angular
+Flutter
+
+They have to build a software together as a team. 
+
+Business requirement is given 
+
+1. what type of domain it is ? - Health care , Finance , Railways 
+2. Majority of developers are familiar with which language ?
+3. Which language has better community support ?  
+4. Open source 
+
+
+3 days full stack application 
+
+Build a blog website 
+
+Backend - Python - Flask 
+Frontend - BootStrap 
+Database - SQLLite ( not a production level database, same concepts as MYSQL, PostgresSQL )
+
+
+Front end 
+
+Backend 
+
+Database
+
+Website
